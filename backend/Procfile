@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT turtle_life_4952.wsgi:application
